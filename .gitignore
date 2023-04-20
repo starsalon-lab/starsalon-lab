@@ -19,3 +19,13 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
+# ignore the following files
+# pycharm related files 
+.idea/
+
+# flutter related files
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# firebase database security files
+firebase.json
